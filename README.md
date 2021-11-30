@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vladimir-Goncharov21
-- 👀 I’m interested in Kotlin and Groovy
+- 👀 I’m interested in Kotlin and Flutter
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - goncharovvladimir19@gmail.com
