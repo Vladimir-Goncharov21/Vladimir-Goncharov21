@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vladimir-Goncharov21
-- 👀 I’m interested in Groovy and JS
-- 🌱 I’m currently learning Vue.JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JVM languages and JavaScript
+- 🌱 I’m currently learning Scala and Kotlin
+- 💞️ I’m looking to collaborate on interesting projects with new technologies
 - 📫 How to reach me - goncharovvladimir19@gmail.com
 
 <!---
